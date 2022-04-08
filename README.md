@@ -2,8 +2,8 @@
 
 ---
 
-### I'm Lovin' It ❤
-
+<details>
+    <summary><b>🛠️ Languages & Tools</b></summary><br/>
 <div align="center">
    <div>
     <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -33,9 +33,10 @@
 ---
 
  <div align="center">
-  <img alt="illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-  <img alt="illustrator" src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" />
+  <img alt="illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30px"/>
+  <img alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30px"/>
  </div>
+ </details>
  
 ---
 
