@@ -2,7 +2,7 @@
 <h1>👋 , I am Marine. </h1>
 <h2>Nice to connect!</h2> 
 </p>
-  I am in 4th year of web engineering studies form,    
+  I am in 4th year of web engineering studies from,    
   <a href="https://www.esgi.fr/programmes/ingenierie-web.html"><img src="https://file.diplomeo-static.com/file/00/00/01/76/17609.svg" alt="IMAGE ALT TEXT HERE" height="30" /></a> 
  
 ---
