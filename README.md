@@ -44,8 +44,6 @@
 
 <div align="center"> 
   <a href="http://www.github.com/MarinSH"><img src="https://github-readme-stats.vercel.app/api?username=MarinSH&show_icons=true&hide=stars,&count_private=true&title_color=9A95BA&text_color=ffffff&icon_color=7768AE&bg_color=0D1117&hide_border=true&show_icons=true" alt="MarinSH's GitHub stats" /></a>
-
-  <a href="http://www.github.com/MarinSH"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarinSH&stroke=ffffff&background=0D1117&ring=CDD3D5&fire=7768AE&currStreakNum=ffffff&currStreakLabel=9A95BA&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   
   <a href="https://github.com/MarinSH" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinSH&langs_count=10&title_color=CDD3D5&text_color=ffffff&icon_color=7768AE&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
