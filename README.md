@@ -42,15 +42,23 @@
      </div>
 </details>
 
-<div align="center"> 
-  <a href="http://www.github.com/MarinSH"><img src="https://github-readme-stats.vercel.app/api?username=MarinSH&show_icons=true&hide=stars,&count_private=true&title_color=9A95BA&text_color=ffffff&icon_color=7768AE&bg_color=0D1117&hide_border=true&show_icons=true" alt="MarinSH's GitHub stats" /></a>
-  
-  <a href="https://github.com/MarinSH" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinSH&langs_count=10&title_color=CDD3D5&text_color=ffffff&icon_color=7768AE&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top 6 Languages" /></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=true&username=MarinSH" height="150" alt="languages graph"  />
 </div>
 
----
+###
+
+###
+
+###
 
 <h2>Find me here ⬇</h2> 
 <p>
   <a href="https://www.linkedin.com/in/marine-s-b76619193/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+<div align="right">
+  
+[![](https://visitcount.itsvg.in/api?id=MarinSH&icon=5&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div> 
