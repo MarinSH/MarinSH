@@ -3,9 +3,6 @@
 <h2>Nice to connect!</h2> 
 </p>
 
- 
----
-
 <details>
     <summary><b> ⌨️ Languages</b></summary><br/>
         <div>
