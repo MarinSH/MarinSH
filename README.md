@@ -13,7 +13,7 @@
 
 <h2>Find me here <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="48" height="48" /></h2> 
 <p>
-  <a href="https://www.linkedin.com/in/marine-s-b76619193/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/marine-s-b76619193/](https://www.linkedin.com/in/marine-h-s/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 <div align="right">
   
