@@ -21,4 +21,8 @@
   
 [![](https://visitcount.itsvg.in/api?id=MarinSH&icon=5&color=12)](https://visitcount.itsvg.in)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/MarinSH" width="1000" height="120"/>
+</a>
+
 </div> 
